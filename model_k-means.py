@@ -1,5 +1,10 @@
 #!usr/bin/env python
 #_*_ coding:utf-8 _*_
+'''
+model:k-means
+input:test_data
+output:picture
+'''
 import random
 import math
 import numpy as np
